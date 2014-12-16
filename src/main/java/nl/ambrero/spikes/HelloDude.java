@@ -6,10 +6,6 @@ public class HelloDude {
     }
 
 	public static void sayHello() {
-        System.out.printf("Hello, dudio");
-	}
-
-	public static void getName() {
-		return "dudio";
+        System.out.printf("Hello, dude");
 	}
 }
