@@ -2,6 +2,10 @@ package nl.ambrero.spikes;
 
 public class HelloDude {
     public static void main(String[] args) {
-        System.out.printf("Hello, dude");
+		sayHello();
     }
+
+	public static void sayHello() {
+        System.out.printf("Hello, dude");
+	}
 }
